@@ -1,0 +1,14 @@
+/hdd/neural_network/yolo2/images/giraffe.jpg, 270, 163, 181, 325, 22
+/hdd/neural_network/yolo2/images/giraffe.jpg, 130, 0, 364, 477, 23
+/hdd/neural_network/yolo2/images/eagle.jpg, 74, 37, 614, 451, 14
+/hdd/neural_network/yolo2/images/dog.jpg, 404, 68, 337, 116, 7
+/hdd/neural_network/yolo2/images/dog.jpg, 93, 178, 356, 572, 18 
+/hdd/neural_network/yolo2/images/dog.jpg, 62, 81, 635, 481, 1
+/hdd/neural_network/yolo2/images/horses.jpg, 42, 150, 478, 225, 17
+/hdd/neural_network/yolo2/images/horses.jpg, 210, 176, 243, 218, 17
+/hdd/neural_network/yolo2/images/horses.jpg, 0, 171, 176, 239, 17
+/hdd/neural_network/yolo2/images/horses.jpg, 411, 191, 216, 177, 17
+/hdd/neural_network/yolo2/images/horses.jpg, 0, 159, 384, 287, 17
+/hdd/neural_network/yolo2/images/person.jpg, 41, 251, 180, 113, 16
+/hdd/neural_network/yolo2/images/person.jpg, 375, 103, 256, 272, 17
+/hdd/neural_network/yolo2/images/person.jpg, 178, 52, 110, 370, 0
